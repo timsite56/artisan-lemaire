@@ -1,0 +1,137 @@
+{
+  "nom_entreprise": "Artisan Lemaire",
+  "type_artisan": "Élagueur",
+  "ville": "Orléans",
+  "telephone_affiche": "07 74 06 66 80",
+  "telephone_tel": "+33774066680",
+  "annee": "2026",
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre élagueur de confiance à Orléans et dans le Loiret",
+    "description": "Artisan Lemaire, élagueur père & fils, entretient et sécurise vos arbres et espaces verts avec passion. 15 ans d'expérience au service de votre extérieur."
+  },
+  "apropos": {
+    "image": "images/apropos.webp",
+    "texte": "Artisan Lemaire est votre élagueur de référence à Orléans et dans tout le Loiret. Entreprise familiale « père & fils », nous mettons notre expertise au service de vos espaces verts depuis 15 ans, avec une devise simple : votre maison, notre passion. Passionnés par le travail soigné et le respect de l'environnement, nous accompagnons particuliers et professionnels du premier conseil jusqu'à la dernière coupe, en toute sécurité.\n\nAbattage d'arbres dangereux, taille et entretien dans les hauteurs, tonte de pelouse, taille de haies, pose de clôture, aménagement et entretien d'espaces verts : nous maîtrisons l'ensemble des prestations d'élagage et de jardinage sur Orléans et les communes environnantes. Avec plus de 300 projets réalisés, Artisan Lemaire s'appuie sur un matériel adapté et un savoir-faire reconnu pour des interventions propres, sécurisées et durables. Votre satisfaction et la beauté de votre extérieur sont notre priorité.",
+    "badges": [
+      "Élagueur père & fils",
+      "Devis gratuit sous 24h",
+      "15 ans d'expérience"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "15",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "300",
+      "label": "Projets réalisés"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Abattage d'arbres",
+      "description": "Abattage et dessouchage d'arbres dangereux ou encombrants, réalisés en toute sécurité avec un matériel professionnel adapté.",
+      "image": "images/service1.webp"
+    },
+    {
+      "titre": "Taillage dans les hauteurs",
+      "description": "Taille et entretien d'arbres de grande hauteur avec du matériel adapté, pour préserver leur santé et sécuriser votre propriété.",
+      "image": "images/service2.webp"
+    },
+    {
+      "titre": "Taille de haies",
+      "description": "Taille de haies pour un extérieur net et harmonieux, en préservant la forme et la santé de chaque végétal.",
+      "image": "images/service3.webp"
+    },
+    {
+      "titre": "Tonte de pelouse",
+      "description": "Tonte de pelouse soignée et entretien régulier pour un jardin propre et impeccable tout au long de l'année.",
+      "image": "images/service4.webp"
+    },
+    {
+      "titre": "Entretien d'espaces verts",
+      "description": "Débroussaillage, désherbage et entretien régulier de vos extérieurs pour un jardin sain et impeccable toute l'année.",
+      "image": "images/service5.webp"
+    },
+    {
+      "titre": "Pose de clôture",
+      "description": "Pose de clôtures robustes et esthétiques pour délimiter et sécuriser votre propriété avec un rendu soigné.",
+      "image": "images/service6.webp"
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "R",
+        "nom": "Raquelle Jouanneau",
+        "texte": "Je vous recommande totalement cet artisan hyper pro, qui a réalisé mes travaux en un temps record avec beaucoup de professionnalisme et d'humanité. Je vais le recontacter pour d'autres travaux. Impeccable !"
+      },
+      {
+        "initiale": "V",
+        "nom": "Véronique P.",
+        "texte": "Cet artisan est intervenu plusieurs fois chez nous : entretien, élagage et récemment un chantier de maçonnerie et peinture. Artisan à l'écoute, efficace et travail soigné."
+      },
+      {
+        "initiale": "M",
+        "nom": "Mario Winstersheim",
+        "texte": "Artisan professionnel. J'ai fait appel à cette entreprise réactive et très compétitive : très beau travail, je recommande vivement !"
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.webp",
+      "legende": "Débroussaillage et remise en état d'un terrain"
+    },
+    {
+      "image": "images/gallery2.webp",
+      "legende": "Taille de haie — avant / après"
+    },
+    {
+      "image": "images/gallery3.webp",
+      "legende": "Taille de haie le long d'une propriété — avant / après"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels types de travaux d'élagage réalisez-vous ?",
+      "reponse": "Artisan Lemaire intervient en abattage d'arbres, taille et entretien dans les hauteurs, élagage, tonte de pelouse, taille de haies et pose de clôture. Nous prenons en charge l'ensemble de l'entretien de vos espaces verts."
+    },
+    {
+      "question": "Intervenez-vous uniquement à Orléans ?",
+      "reponse": "Non, nous intervenons à Orléans et dans tout le Loiret : Olivet, Saint-Jean-de-Braye, Fleury-les-Aubrais, Saran, La Chapelle-Saint-Mesmin et les communes environnantes. Contactez-nous pour vérifier votre secteur."
+    },
+    {
+      "question": "Vos interventions sont-elles sécurisées ?",
+      "reponse": "Oui. Nous travaillons avec un matériel professionnel adapté et dans le respect des règles de sécurité, aussi bien pour l'abattage que pour la taille en hauteur, afin de protéger votre propriété et votre entourage."
+    },
+    {
+      "question": "Le devis est-il gratuit ?",
+      "reponse": "Oui, nous nous déplaçons pour étudier votre projet et vous remettons un devis détaillé, entièrement gratuit et sans engagement, sous 24 à 48h."
+    }
+  ],
+  "contact_description": "Décrivez votre projet d'élagage ou d'entretien et recevez un devis personnalisé sous 24h — gratuit et sans engagement.",
+  "footer_description": "Élagueur à Orléans, Artisan Lemaire (père & fils) sécurise, taille et entretient vos arbres et espaces verts dans tout le Loiret.",
+  "design": {
+    "nav_style": "transparent",
+    "stats_style": "classique",
+    "palette": "vert"
+  },
+  "horaires": {
+    "visible": false,
+    "jours": [
+      { "nom": "Lundi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
+      { "nom": "Mardi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
+      { "nom": "Mercredi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
+      { "nom": "Jeudi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
+      { "nom": "Vendredi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
+      { "nom": "Samedi", "ferme": false, "matin_debut": "09:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "17:00" },
+      { "nom": "Dimanche", "ferme": true, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" }
+    ]
+  }
+}
