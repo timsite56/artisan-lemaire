@@ -31,13 +31,13 @@
   ],
   "services": [
     {
-      "titre": "Abattage d'arbres",
-      "description": "Abattage et dessouchage d'arbres dangereux ou encombrants, réalisés en toute sécurité avec un matériel professionnel adapté.",
+      "titre": "Nettoyage de dallages",
+      "description": "Nettoyage haute pression de vos terrasses, dallages et allées pour éliminer mousses et salissures et retrouver un sol éclatant.",
       "image": "images/service1.webp"
     },
     {
-      "titre": "Élagage",
-      "description": "Élagage et taille d'arbres, y compris en grande hauteur, avec un matériel adapté pour préserver leur santé et sécuriser votre propriété.",
+      "titre": "Élagage et abattage d'arbres",
+      "description": "Élagage, taille en hauteur et abattage sécurisé de vos arbres dangereux ou encombrants, avec un matériel adapté pour préserver leur santé et votre propriété.",
       "image": "images/service2.webp"
     },
     {
