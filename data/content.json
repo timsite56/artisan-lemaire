@@ -2,8 +2,8 @@
   "nom_entreprise": "Artisan Lemaire",
   "type_artisan": "Élagueur",
   "ville": "Orléans",
-  "telephone_affiche": "06 74 06 66 80",
-  "telephone_tel": "+33674066680",
+  "telephone_affiche": "06 02 29 37 08",
+  "telephone_tel": "+33602293708",
   "annee": "2026",
   "hero": {
     "image": "images/hero-bg.jpg",
@@ -58,7 +58,7 @@
     {
       "titre": "Pose de clôture",
       "description": "Pose de clôtures robustes et esthétiques pour délimiter et sécuriser votre propriété avec un rendu soigné.",
-      "image": "images/service6.webp"
+      "image": "images/service6.JPG"
     }
   ],
   "avis": {
