@@ -642,7 +642,7 @@
       <a href="#services">Services</a><a href="#apropos">À propos</a><a href="#galerie">Réalisations</a><a href="#avis">Avis</a><a href="#faq">FAQ</a>
     </div>
     <div class="footer-col"><h4>Contact</h4>
-      <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg><span id="footerVille"> </span></span>
+      <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg><span id="footerAdresse">264 rue des Sables de Sary — 45770 Saran</span></span>
       <a href="#" class="phone-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 010 1.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg><span id="footerTel"> </span></a>
       <a href="#devis"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>Demander un devis gratuit</a>
     </div>
@@ -714,7 +714,6 @@
       `<li class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">${q.question}<span class="ic"></span></button><div class="faq-a"><p>${q.reponse}</p></div></li>`).join('');
     document.getElementById('footerBrand').textContent=data.nom_entreprise;
     document.getElementById('footerDesc').textContent=data.footer_description;
-    document.getElementById('footerVille').textContent=data.ville;
     document.getElementById('footerTel').textContent=data.telephone_affiche;
     document.getElementById('footerAnnee').textContent=data.annee;
     document.getElementById('footerNom').textContent=data.nom_entreprise;
