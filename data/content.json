@@ -43,7 +43,7 @@
     {
       "titre": "Taille de haies",
       "description": "Taille de haies pour un extérieur net et harmonieux, en préservant la forme et la santé de chaque végétal.",
-      "image": "images/service3.webp"
+      "image": "images/service3.JPG"
     },
     {
       "titre": "Tonte de pelouse",
@@ -95,6 +95,42 @@
     {
       "image": "images/gallery3.webp",
       "legende": "Taille de haie le long d'une propriété — avant / après"
+    },
+    {
+      "image": "images/gallery4.JPG",
+      "legende": "Réalisation 4"
+    },
+    {
+      "image": "images/gallery5.JPG",
+      "legende": "Réalisation 5"
+    },
+    {
+      "image": "images/gallery6.JPG",
+      "legende": "Réalisation 6"
+    },
+    {
+      "image": "images/gallery7.JPG",
+      "legende": "Réalisation 7"
+    },
+    {
+      "image": "images/gallery8.JPG",
+      "legende": "Réalisation 8"
+    },
+    {
+      "image": "images/gallery9.JPG",
+      "legende": "Réalisation 9"
+    },
+    {
+      "image": "images/gallery10.JPG",
+      "legende": "Réalisation 10"
+    },
+    {
+      "image": "images/gallery11.JPG",
+      "legende": "Réalisation 11"
+    },
+    {
+      "image": "images/gallery12.JPG",
+      "legende": "Réalisation 12"
     }
   ],
   "faq": [
@@ -125,13 +161,62 @@
   "horaires": {
     "visible": false,
     "jours": [
-      { "nom": "Lundi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
-      { "nom": "Mardi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
-      { "nom": "Mercredi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
-      { "nom": "Jeudi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
-      { "nom": "Vendredi", "ferme": false, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" },
-      { "nom": "Samedi", "ferme": false, "matin_debut": "09:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "17:00" },
-      { "nom": "Dimanche", "ferme": true, "matin_debut": "08:00", "matin_fin": "12:00", "am_debut": "13:30", "am_fin": "18:00" }
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "09:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "17:00"
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      }
     ]
   }
 }
